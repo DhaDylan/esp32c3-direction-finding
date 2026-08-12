@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1763IDE-3.3#PBF
+D LINEAR TECHNOLOGY - LT1763IDE-3.3#PBF - Fixed LDO Voltage Regulator, 1.8V to 20V, 300mV Dropout, 3.3Vout, 500mAout, DFN-12
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU4/DSASF4000-3503.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,260 @@
+(footprint "WDP2458254B02"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "WDP.2458.25.4.B.02-2")
+	(tags "Antenna")
+	(property "Reference" "ANT**"
+		(at -1.8 -1.8 0)
+		(layer "F.SilkS")
+		(uuid "6f9540c1-0a52-414b-9a5a-75434f2505ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "WDP2458254B02"
+		(at -1.8 -1.8 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "9360ed0f-cf03-4757-a786-876fd84db741")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "88b2b304-3826-42e2-b92a-6552ec2cd0b7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bddc1246-f203-4d05-ad88-cc6f49a15193")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -14.35 -14.35)
+		(end 10.75 -14.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8686268b-744f-4373-829c-8a12d99fa2ac")
+	)
+	(fp_line
+		(start -14.35 10.75)
+		(end -14.35 -14.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "184ffb21-4ceb-4765-8501-24f03bbb60f4")
+	)
+	(fp_line
+		(start 10.75 -14.35)
+		(end 10.75 10.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "15e16d25-c475-4ce2-a8f6-6440f396f8ff")
+	)
+	(fp_line
+		(start 10.75 10.75)
+		(end -14.35 10.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6d4d96db-daa6-406d-9bde-5cb461634c8f")
+	)
+	(fp_line
+		(start 11.2 0)
+		(end 11.2 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "395bd860-4aa1-46dd-9b53-ce26222d6691")
+	)
+	(fp_line
+		(start 11.3 0)
+		(end 11.3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6bea6f5d-db6b-4737-b44b-a789b0ce1048")
+	)
+	(fp_arc
+		(start 11.2 0)
+		(mid 11.25 -0.05)
+		(end 11.3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "37eb82b9-20b7-4077-a67e-2ebcbe5ffb78")
+	)
+	(fp_arc
+		(start 11.3 0)
+		(mid 11.25 0.05)
+		(end 11.2 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8ed9991-90e2-45f7-9472-dcc6328c7d61")
+	)
+	(fp_line
+		(start -15.35 -15.35)
+		(end 11.75 -15.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "212e55f2-da68-4206-9961-4b0da195598a")
+	)
+	(fp_line
+		(start -15.35 11.75)
+		(end -15.35 -15.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ba9359df-2a85-4d5f-a991-87cf82a44b94")
+	)
+	(fp_line
+		(start 11.75 -15.35)
+		(end 11.75 11.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "67197cb3-6825-4343-ba84-316f2ff2a6a0")
+	)
+	(fp_line
+		(start 11.75 11.75)
+		(end -15.35 11.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b6d9df07-0337-4be4-8e6b-73fda6bff17c")
+	)
+	(fp_line
+		(start -14.35 -14.35)
+		(end 10.75 -14.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "06610c96-dc5c-48ab-8e5e-46d41750bce4")
+	)
+	(fp_line
+		(start -14.35 10.75)
+		(end -14.35 -14.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7b4259e8-2f09-4b68-a032-aa7f83ba4946")
+	)
+	(fp_line
+		(start 10.75 -14.35)
+		(end 10.75 10.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a9579506-3e01-43cc-87c8-66f4ab5c902a")
+	)
+	(fp_line
+		(start 10.75 10.75)
+		(end -14.35 10.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e941d1a0-646e-4bb6-a12b-6c971155bb36")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -1.8 -1.8 0)
+		(layer "F.Fab")
+		(uuid "f8312f94-c961-43e8-b67f-bdc2dad608e2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.65 1.65)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f85b21ad-b4be-4350-b22d-0d8fcef69af2")
+	)
+	(embedded_fonts no)
+	(model "WDP.2458.25.4.B.02.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "C:/Users/dyland/Desktop/ESP PCB/LIB_WDP.2458.25.4.B.02/WDP.2458.25.4.B.02/3D/WDP.2458.25.4.B.02.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

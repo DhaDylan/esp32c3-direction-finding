@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RCC04021K50FKED
+#/13220895/1747742/2.50/2/2/Resistor
+DEF RCC04021K50FKED R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "RCC04021K50FKED" 550 150 50 H V L CNN
+F2 "RCC0402_e3" 550 50 50 H I L CNN
+F3 "https://www.vishay.com/docs/20066/rcce3.pdf" 550 -50 50 H I L CNN
+F4 "Medium Power Thick Film Chip Resistor, AEC-Q200, 0402" 550 -150 50 H I L CNN "Description"
+F5 "0.35" 550 -250 50 H I L CNN "Height"
+F6 "71-RCC04021K50FKED" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCC04021K50FKED?qs=GedFDFLaBXEq9D2U75udFg%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Vishay" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "RCC04021K50FKED" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library

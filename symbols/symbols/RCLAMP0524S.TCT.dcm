@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RCLAMP0524S.TCT
+D ESD Suppressor Diode TVS Uni-Dir 5V 6-Pin SOT-23 T/R
+K
+F 
+$ENDCMP
+#
+#End Doc Library

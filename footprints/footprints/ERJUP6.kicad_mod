@@ -1,0 +1,193 @@
+(footprint "ERJUP6"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "ERJUP6")
+	(tags "Resistor")
+	(property "Reference" "R**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "ba530ce4-295d-4c4e-9ac3-d15e7d527972")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "ERJUP6"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e410b6c4-e8f7-4d70-8d35-049284387577")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3dd3ac53-1025-4dc6-86ef-0259d684ec1b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "733c0eb3-6074-4050-99f5-2abd1fa434be")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -2.025 0)
+		(end -2.025 0.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "23ce80a2-daa4-4a17-b7a2-096231a7e393")
+	)
+	(fp_line
+		(start -2.55 -1.625)
+		(end 2.55 -1.625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "96120612-eeb6-41b7-8ace-9fdb69a63150")
+	)
+	(fp_line
+		(start -2.55 1.625)
+		(end -2.55 -1.625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f9e2f947-3525-48a0-849b-3a93cb5aeb60")
+	)
+	(fp_line
+		(start 2.55 -1.625)
+		(end 2.55 1.625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b1d46f25-0886-4f80-bd0f-10665ad8cfbd")
+	)
+	(fp_line
+		(start 2.55 1.625)
+		(end -2.55 1.625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0ad3583d-e25c-4ec0-a5db-065957481c4e")
+	)
+	(fp_line
+		(start -1 -0.625)
+		(end 1 -0.625)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2753acd8-73f1-40bd-bc1b-fc54e90ffb0b")
+	)
+	(fp_line
+		(start -1 0.625)
+		(end -1 -0.625)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ee950916-084a-4c2f-9f66-056c1dba97a6")
+	)
+	(fp_line
+		(start 1 -0.625)
+		(end 1 0.625)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b150285a-14db-46ab-9532-607d0722db4f")
+	)
+	(fp_line
+		(start 1 0.625)
+		(end -1 0.625)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3caa8f7d-c64b-451b-88d6-aae433a1f99d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "66ae65f7-c94e-4842-8a71-35f8ff922e9d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.175 0)
+		(size 1.15 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "738d512d-5c8f-4e49-9fa8-b8a43959800e")
+	)
+	(pad "2" smd rect
+		(at 1.175 0)
+		(size 1.15 1.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7f2ab589-6ce6-456e-a131-a1918855ad18")
+	)
+	(embedded_fonts no)
+	(model "ERJ-UP6D5101V.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "C:/Users/dyland/Downloads/LIB_ERJ-UP6D5101V/ERJ-UP6D5101V/3D/ERJ-UP6D5101V.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

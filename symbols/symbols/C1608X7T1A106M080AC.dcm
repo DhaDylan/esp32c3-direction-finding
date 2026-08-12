@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C1608X7T1A106M080AC
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT Commercial Grade,MLCC,0603,X7T,10V,10uF,+/-20%,0.8mm
+K
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf
+$ENDCMP
+#
+#End Doc Library

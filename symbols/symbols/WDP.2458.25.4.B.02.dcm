@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WDP.2458.25.4.B.02
+D Antennas 25*25*4mm WDP.2458.25.4.B.02 2.4/5.8GHz Ceramic Patch Antenna
+K
+F https://cdn.taoglas.com/datasheets/WDP.2458.25.4.B.02.pdf
+$ENDCMP
+#
+#End Doc Library

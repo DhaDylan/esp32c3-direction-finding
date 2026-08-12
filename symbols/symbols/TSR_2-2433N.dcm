@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSR_2-2433N
+D 2 Amp POL switching regulator, wide input range, pos.-pos. circuit, cost efficient design, TO-220 compatible, SIP-3,4.6 - 36 VDC (12 VDC nom.),2.5 VDC
+K
+F https://tracopower.com/tsr2n-datasheet/
+$ENDCMP
+#
+#End Doc Library

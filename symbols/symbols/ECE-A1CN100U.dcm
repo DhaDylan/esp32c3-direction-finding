@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECE-A1CN100U
+D Panasonic 10uF 16 V Aluminium Electrolytic Capacitor, SU Series 1000h 5 x 11mm
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1053.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FK4000032
+D 40 MHz XO (Standard) CMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead
+K
+F https://www.diodes.com/assets/Datasheets/FK-3-3V.pdf
+$ENDCMP
+#
+#End Doc Library

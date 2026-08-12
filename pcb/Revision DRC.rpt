@@ -1,0 +1,123 @@
+** Drc report for 10.28.25 V2 Wifi PCB.kicad_pcb **
+** Created on 2026-06-23T10:35:02-0400 **
+
+** Found 25 DRC violations **
+[clearance]: Clearance violation (netclass 'RF' clearance 0.1500 mm; actual 0.1000 mm)
+    Rule: netclass 'RF'; error
+    @(54.0000 mm, 51.6500 mm): Pad 2 [Net-(C36-Pad1)] of L6 on F.Cu
+    @(54.0000 mm, 52.3500 mm): Pad 1 [Net-(U5-LNA_IN)] of L6 on F.Cu
+[clearance]: Clearance violation (netclass 'RF' clearance 0.1500 mm; actual 0.1000 mm)
+    Rule: netclass 'RF'; error
+    @(79.5000 mm, 55.5000 mm): Pad 1 [Net-(U3-LNA_IN)] of L2 on F.Cu
+    @(79.5000 mm, 54.8000 mm): Pad 2 [Net-(C17-Pad1)] of L2 on F.Cu
+[clearance]: Clearance violation (netclass 'RF' clearance 0.1500 mm; actual 0.1000 mm)
+    Rule: netclass 'RF'; error
+    @(116.5000 mm, 52.3500 mm): Pad 1 [Net-(U4-LNA_IN)] of L4 on F.Cu
+    @(116.5000 mm, 51.6500 mm): Pad 2 [Net-(C24-Pad1)] of L4 on F.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(45.7500 mm, 70.0000 mm): Via [GND] on F.Cu - B.Cu
+    @(45.7500 mm, 70.0000 mm): Via [GND] on F.Cu - B.Cu
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(44.1680 mm, 70.0000 mm): Via [/Power2] on F.Cu - B.Cu
+    @(44.1680 mm, 70.0000 mm): Via [/Power2] on F.Cu - B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(53.9800 mm, 52.0000 mm): Segment of L6 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(79.4800 mm, 55.1500 mm): Segment of L2 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(116.4800 mm, 52.0000 mm): Segment of L4 on F.Silkscreen
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(119.2190 mm, 59.0000 mm): Pad 1 [Net-(U4-LNA_IN)] of C23 on F.Cu
+    @(119.7810 mm, 59.0000 mm): Pad 2 [GND] of C23 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(56.2190 mm, 51.0000 mm): Pad 1 [Net-(C36-Pad1)] of C36 on F.Cu
+    @(56.7810 mm, 51.0000 mm): Pad 2 [GND] of C36 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(56.7190 mm, 59.0000 mm): Pad 1 [Net-(U5-LNA_IN)] of C35 on F.Cu
+    @(57.2810 mm, 59.0000 mm): Pad 2 [GND] of C35 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(118.7190 mm, 51.0000 mm): Pad 1 [Net-(C24-Pad1)] of C24 on F.Cu
+    @(119.2810 mm, 51.0000 mm): Pad 2 [GND] of C24 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(79.4690 mm, 58.0000 mm): Pad 1 [Net-(U3-LNA_IN)] of C16 on F.Cu
+    @(80.0310 mm, 58.0000 mm): Pad 2 [GND] of C16 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(86.4690 mm, 58.0000 mm): Pad 1 [Net-(C17-Pad1)] of C18 on F.Cu
+    @(87.0310 mm, 58.0000 mm): Pad 2 [GND] of C18 on F.Cu
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(113.0268 mm, 41.3482 mm): Footprint text of U1 (*)
+    @(113.0268 mm, 41.3482 mm): Footprint text of U1 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(70.1479 mm, 75.2434 mm): Footprint text of SW1 (*)
+    @(70.1479 mm, 75.2434 mm): Footprint text of SW1 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(79.7829 mm, 60.0000 mm): Footprint text of U3 (*)
+    @(79.7829 mm, 60.0000 mm): Footprint text of U3 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(111.0329 mm, 60.0000 mm): Footprint text of U4 (*)
+    @(111.0329 mm, 60.0000 mm): Footprint text of U4 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(38.8979 mm, 75.2434 mm): Footprint text of SW3 (*)
+    @(38.8979 mm, 75.2434 mm): Footprint text of SW3 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(56.8979 mm, 75.2434 mm): Footprint text of SW6 (*)
+    @(56.8979 mm, 75.2434 mm): Footprint text of SW6 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(50.5268 mm, 41.3482 mm): Footprint text of U2 (*)
+    @(50.5268 mm, 41.3482 mm): Footprint text of U2 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(48.5329 mm, 60.0000 mm): Footprint text of U5 (*)
+    @(48.5329 mm, 60.0000 mm): Footprint text of U5 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(101.3979 mm, 75.2434 mm): Footprint text of SW2 (*)
+    @(101.3979 mm, 75.2434 mm): Footprint text of SW2 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(119.3979 mm, 75.2434 mm): Footprint text of SW5 (*)
+    @(119.3979 mm, 75.2434 mm): Footprint text of SW5 (*)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(88.1479 mm, 75.2434 mm): Footprint text of SW4 (*)
+    @(88.1479 mm, 75.2434 mm): Footprint text of SW4 (*)
+
+** Found 4 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+
+** Found 0 Footprint errors **
+
+** End of Report **

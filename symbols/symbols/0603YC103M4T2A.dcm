@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0603YC103M4T2A
+D Capacitor, 0603 10000PF +/-20% 16V
+K
+F https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf
+$ENDCMP
+#
+#End Doc Library

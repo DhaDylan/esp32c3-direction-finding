@@ -1,0 +1,58 @@
+** Drc report for 10.28.25 V2 Wifi PCB.kicad_pcb **
+** Created on 2026-06-23T13:01:15-0400 **
+
+** Found 9 DRC violations **
+[clearance]: Clearance violation (netclass 'RF' clearance 0.1500 mm; actual 0.1000 mm)
+    Rule: netclass 'RF'; error
+    @(116.5000 mm, 51.0000 mm): Pad 2 [Net-(C24-Pad1)] of L4 on F.Cu
+    @(116.5000 mm, 51.7000 mm): Pad 1 [Net-(U4-LNA_IN)] of L4 on F.Cu
+[clearance]: Clearance violation (netclass 'RF' clearance 0.1500 mm; actual 0.1000 mm)
+    Rule: netclass 'RF'; error
+    @(54.0000 mm, 52.3500 mm): Pad 1 [Net-(U5-LNA_IN)] of L6 on F.Cu
+    @(54.0000 mm, 51.6500 mm): Pad 2 [Net-(C36-Pad1)] of L6 on F.Cu
+[clearance]: Clearance violation (netclass 'RF' clearance 0.1500 mm; actual 0.1000 mm)
+    Rule: netclass 'RF'; error
+    @(79.5000 mm, 55.5000 mm): Pad 1 [Net-(U3-LNA_IN)] of L2 on F.Cu
+    @(79.5000 mm, 54.8000 mm): Pad 2 [Net-(C17-Pad1)] of L2 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(57.5620 mm, 51.0000 mm): Pad 2 [GND] of C36 on F.Cu
+    @(57.0000 mm, 51.0000 mm): Pad 1 [Net-(C36-Pad1)] of C36 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(116.5000 mm, 56.5000 mm): Pad 1 [Net-(U4-LNA_IN)] of C23 on F.Cu
+    @(117.0620 mm, 56.5000 mm): Pad 2 [GND] of C23 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(56.7190 mm, 59.0000 mm): Pad 1 [Net-(U5-LNA_IN)] of C35 on F.Cu
+    @(57.2810 mm, 59.0000 mm): Pad 2 [GND] of C35 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(118.7190 mm, 51.0000 mm): Pad 1 [Net-(C24-Pad1)] of C24 on F.Cu
+    @(119.2810 mm, 51.0000 mm): Pad 2 [GND] of C24 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(79.4690 mm, 58.0000 mm): Pad 1 [Net-(U3-LNA_IN)] of C16 on F.Cu
+    @(80.0310 mm, 58.0000 mm): Pad 2 [GND] of C16 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(89.0000 mm, 56.0000 mm): Pad 1 [Net-(C17-Pad1)] of C18 on F.Cu
+    @(89.5620 mm, 56.0000 mm): Pad 2 [GND] of C18 on F.Cu
+
+** Found 3 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+    @(6.2747 mm, 1.6000 mm): Zone [GND] on F.Cu, priority 0
+
+** Found 0 Footprint errors **
+
+** End of Report **

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2936M-3.3_NOPB
+D Ultra-Low Quiescent Current LDO Voltage Regulator
+K
+F http://www.ti.com/lit/gpn/lm2936
+$ENDCMP
+#
+#End Doc Library

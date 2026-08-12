@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model FK4000032
+#/1271348/1747742/2.50/4/3/Crystal or Oscillator
+DEF FK4000032 Y 0 30 Y Y 1 F N
+F0 "Y" 1350 300 50 H V L CNN
+F1 "FK4000032" 1350 200 50 H V L CNN
+F2 "FK4000032" 1350 100 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/FK-3-3V.pdf" 1350 0 50 H I L CNN
+F4 "40 MHz XO (Standard) CMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead" 1350 -100 50 H I L CNN "Description"
+F5 "1.15" 1350 -200 50 H I L CNN "Height"
+F6 "729-FK4000032" 1350 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/FK4000032?qs=byeeYqUIh0OwJmy2Pkqh%2Fg%3D%3D" 1350 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Incorporated" 1350 -500 50 H I L CNN "Manufacturer_Name"
+F9 "FK4000032" 1350 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X OE 1 0 -100 200 R 50 50 0 0 P
+X GROUND 2 1500 -100 200 L 50 50 0 0 P
+X CLOCK_OUTPUT 3 1500 0 200 L 50 50 0 0 P
+X VDD 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1300 100 1300 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

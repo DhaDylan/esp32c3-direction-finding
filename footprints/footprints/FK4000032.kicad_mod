@@ -1,0 +1,258 @@
+(footprint "FK4000032"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "FK4000032-2")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "Y**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "c250dc7f-3bae-4889-a2d4-730c824822cd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "FK4000032"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "78093d42-edb0-4dae-953d-c88b09d721be")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f86df50c-07b8-4268-b012-b5a37ffc4d8f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "94eb9113-b9d7-4d96-967d-7dec10aef1df")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.06 1.85)
+		(end -1.06 1.85)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5df3efee-4c3a-4b5a-9a71-dec01089cdbc")
+	)
+	(fp_line
+		(start -1.06 1.95)
+		(end -1.06 1.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0438a519-dfeb-4b43-a91d-bb703eef8c7e")
+	)
+	(fp_arc
+		(start -1.06 1.85)
+		(mid -1.01 1.9)
+		(end -1.06 1.95)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e7460cb7-9346-4909-9fae-49961ef70fa6")
+	)
+	(fp_arc
+		(start -1.06 1.95)
+		(mid -1.11 1.9)
+		(end -1.06 1.85)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5e2dcb51-d6c4-46e6-8155-1881eb0e5481")
+	)
+	(fp_line
+		(start -2.81 -2.4)
+		(end 2.81 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "878d2bb3-d23d-4486-bcc0-fe11cf289d66")
+	)
+	(fp_line
+		(start -2.81 2.4)
+		(end -2.81 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a57a8abe-c0d0-4b27-a0c4-e60523192cd1")
+	)
+	(fp_line
+		(start 2.81 -2.4)
+		(end 2.81 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bf95290f-8113-434c-99b9-cf6ec3867a85")
+	)
+	(fp_line
+		(start 2.81 2.4)
+		(end -2.81 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "927fe35c-c649-4ad5-bece-ca0e1eb54dfc")
+	)
+	(fp_line
+		(start -1.6 -1.25)
+		(end 1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2312d831-15cf-457a-be69-b03738051f6b")
+	)
+	(fp_line
+		(start -1.6 1.25)
+		(end -1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b9a83848-259c-4cea-85c1-8cda8e1ccbd5")
+	)
+	(fp_line
+		(start 1.6 -1.25)
+		(end 1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d67c6b59-05a9-4dc7-ac86-e9b0607e4786")
+	)
+	(fp_line
+		(start 1.6 1.25)
+		(end -1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "797356ec-9dcd-4db4-ad42-70b6529119a9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "e151360b-7016-4414-bab9-520e2fe433f0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.06 0.8 90)
+		(size 1.2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c280d96e-32aa-4710-b402-4172123789f7")
+	)
+	(pad "2" smd rect
+		(at 1.06 0.8 90)
+		(size 1.2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "67c8824e-48d8-49ac-a108-3a48a168924c")
+	)
+	(pad "3" smd rect
+		(at 1.06 -0.8 90)
+		(size 1.2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "60521d41-0b7e-420b-8235-df77c47582b3")
+	)
+	(pad "4" smd rect
+		(at -1.06 -0.8 90)
+		(size 1.2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7a94a80f-bc6a-460b-82f3-94d5fb78eea7")
+	)
+	(embedded_fonts no)
+	(model "FK4000032.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "C:/Users/li107/Downloads/LIB_ABM14N-40.0000MHZ-8-N1U/ABM14N-40.0000MHZ-8-N1U/3D/ABM14N-40.0000MHZ-8-N1U.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "C:/Users/li107/Downloads/LIB_FK4000032/FK4000032/3D/FK4000032.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "C:/Users/dyland/Desktop/ESP PCB/LIB_FK4000032/FK4000032/3D/FK4000032.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

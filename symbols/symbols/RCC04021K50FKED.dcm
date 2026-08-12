@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RCC04021K50FKED
+D Medium Power Thick Film Chip Resistor, AEC-Q200, 0402
+K
+F https://www.vishay.com/docs/20066/rcce3.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,17 @@
+# KiCad backups/autosave/locks
+*-backups/
+_autosave-*
+~*.lck
+*.bak
+
+# Logs and scratch DRC/JSON dumps
+*.log
+_drc_*.json
+_render_*.png
+
+# Freerouting jar (download separately)
+pcb/freerouting19.jar
+
+# OS files
+Thumbs.db
+.DS_Store

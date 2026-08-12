@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MP2329CGG-Z
+#/1814720/1747742/2.50/11/3/Integrated Circuit
+DEF MP2329CGG-Z IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "MP2329CGG-Z" 1050 200 50 H V L CNN
+F2 "MP2329CGGZ" 1050 100 50 H I L CNN
+F3 "https://www.monolithicpower.cn/cn/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2329C/" 1050 0 50 H I L CNN
+F4 "Converter DC-DC Single Step Down 4.5V to 24V 11-Pin QFN T/R - Tape and Reel" 1050 -100 50 H I L CNN "Description"
+F5 "1" 1050 -200 50 H I L CNN "Height"
+F6 "946-MP2329CGG-Z" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP2329CGG-Z?qs=byeeYqUIh0NapSLS04PqVw%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Monolithic Power Systems (MPS)" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "MP2329CGG-Z" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VIN 1 0 0 200 R 50 50 0 0 P
+X PGND_1 2 0 -100 200 R 50 50 0 0 P
+X PGND_2 3 0 -200 200 R 50 50 0 0 P
+X PGND_3 4 0 -300 200 R 50 50 0 0 P
+X PG 5 0 -400 200 R 50 50 0 0 P
+X SW 6 0 -500 200 R 50 50 0 0 P
+X BST 7 1200 0 200 L 50 50 0 0 P
+X VCC 8 1200 -100 200 L 50 50 0 0 P
+X AGND 9 1200 -200 200 L 50 50 0 0 P
+X FB 10 1200 -300 200 L 50 50 0 0 P
+X EN 11 1200 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
