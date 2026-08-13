@@ -447,7 +447,7 @@
 			(uuid "2bb01ec4-17ea-4770-b63e-1ea4d25d31dd")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1062,6 +1062,17 @@
 			(uuid "0055acde-5623-46b1-b3ec-e82264a8f2ce")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/RJ-6_ADI.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(model "C:/Users/dyland/Desktop/ESP PCB/ul_HMC221BE/RJ-6_ADI.step"
 			(offset
 				(xyz 0 0 0)
@@ -1317,7 +1328,7 @@
 			(uuid "f562dd25-b80e-457b-b0a5-5e325410192a")
 		)
 		(embedded_fonts no)
-		(model "MLG0603S2N0ST000.stp"
+		(model "../3dmodels/3dmodels/MLG0603S2N0ST000.stp"
 			(offset
 				(xyz 0 0 0.1500000037)
 			)
@@ -1572,7 +1583,7 @@
 			(uuid "49961472-31d9-41da-b848-32c2d3228e10")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1868,7 +1879,7 @@
 			(uuid "5ef62d32-e286-4eac-9470-3c1508834826")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2175,7 +2186,7 @@
 			(uuid "1723c4b9-1e20-4f3f-b0be-5ca57906670a")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2734,6 +2745,17 @@
 			(uuid "b6be4738-d284-4b1d-93e2-eb10b62a5a6d")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_SW_PTS645.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:MBASx21x"
 		(layer "F.Cu")
@@ -3019,7 +3041,7 @@
 			(uuid "0d89b8f7-90db-4a80-8818-58400b45aabd")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3362,7 +3384,7 @@
 			(uuid "049e045d-6867-44a4-a144-0a88a39f6243")
 		)
 		(embedded_fonts no)
-		(model "WDP.2458.25.4.B.02.stp"
+		(model "../3dmodels/3dmodels/WDP.2458.25.4.B.02.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3668,7 +3690,7 @@
 			(uuid "ddf8581c-64ba-4f7b-b53b-1bee67eabf4f")
 		)
 		(embedded_fonts no)
-		(model "LTST-C190GKT.stp"
+		(model "../3dmodels/3dmodels/LTST-C190GKT.stp"
 			(offset
 				(xyz -0.01999999925 0 0.1399999985)
 			)
@@ -3963,7 +3985,7 @@
 			(uuid "84675258-ba8f-4120-8dd5-4d79bfde6224")
 		)
 		(embedded_fonts no)
-		(model "LTST-C190GKT.stp"
+		(model "../3dmodels/3dmodels/LTST-C190GKT.stp"
 			(offset
 				(xyz -0.01999999925 0 0.1399999985)
 			)
@@ -4207,7 +4229,7 @@
 			(uuid "ed663347-023e-41b1-aaf0-6882d3bf52ca")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4462,7 +4484,7 @@
 			(uuid "df695030-8a14-4b9d-b625-c6d1e002429f")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4716,7 +4738,7 @@
 			(uuid "25618949-dada-4649-9be6-ae47b4545ec9")
 		)
 		(embedded_fonts no)
-		(model "C1608X7T1A106M080AC.stp"
+		(model "../3dmodels/3dmodels/C1608X7T1A106M080AC.stp"
 			(offset
 				(xyz 0 0 0.4)
 			)
@@ -4971,7 +4993,7 @@
 			(uuid "2b529487-df34-49f1-8da5-9da134521dbc")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5226,7 +5248,7 @@
 			(uuid "d01b774d-d63e-424f-9393-dc643ea59790")
 		)
 		(embedded_fonts no)
-		(model "ERJ-UP6D5101V.stp"
+		(model "../3dmodels/3dmodels/ERJ-UP6D5101V.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5512,7 +5534,7 @@
 			(uuid "3dbe1abd-0559-4fd1-a200-aeb2338d4d6b")
 		)
 		(embedded_fonts no)
-		(model "PWR8030W1002FE.stp"
+		(model "../3dmodels/3dmodels/PWR8030W1002FE.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5808,7 +5830,7 @@
 			(uuid "4e301558-49b7-4f84-b05b-981c0d3f03d7")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6073,7 +6095,7 @@
 			(uuid "99d1493d-a999-4582-880b-3390649f9391")
 		)
 		(embedded_fonts no)
-		(model "C1608X7T1A106M080AC.stp"
+		(model "../3dmodels/3dmodels/C1608X7T1A106M080AC.stp"
 			(offset
 				(xyz 0 0 0.4)
 			)
@@ -6338,7 +6360,7 @@
 			(uuid "2eba8a71-35af-4e33-97c8-13d338b17b4e")
 		)
 		(embedded_fonts no)
-		(model "MCU08050C2209FP500.stp"
+		(model "../3dmodels/3dmodels/MCU08050C2209FP500.stp"
 			(offset
 				(xyz 0.999999985 -0.6199999955 0)
 			)
@@ -6633,7 +6655,7 @@
 			(uuid "36d4fd20-99ea-4075-8ec7-3e4a5d2cc168")
 		)
 		(embedded_fonts no)
-		(model "LTST-C190GKT.stp"
+		(model "../3dmodels/3dmodels/LTST-C190GKT.stp"
 			(offset
 				(xyz -0.01999999925 0 0.1399999985)
 			)
@@ -7181,6 +7203,17 @@
 			(uuid "06e74e34-6d16-4edf-96f8-df41afdfaef5")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_SW_PTS645.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:MBASx21x"
 		(layer "F.Cu")
@@ -7466,7 +7499,7 @@
 			(uuid "0b1115a3-a7bf-4014-bc8d-2d14b5d54724")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7773,7 +7806,7 @@
 			(uuid "f66df769-c193-4b91-92d2-729bba24d8fb")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8399,6 +8432,17 @@
 			(uuid "18929b55-db1e-458e-b8aa-c2010d5ce27e")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/RJ-6_ADI.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(model "C:/Users/dyland/Desktop/ESP PCB/ul_HMC221BE/RJ-6_ADI.step"
 			(offset
 				(xyz 0 0 0)
@@ -8695,7 +8739,7 @@
 			(uuid "4a00942a-3825-411b-a948-ca2ca7cdd3a0")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9046,7 +9090,7 @@
 			(uuid "a03cfd92-be10-4843-b937-72201c322002")
 		)
 		(embedded_fonts no)
-		(model "USBLC6-2SC6.stp"
+		(model "../3dmodels/3dmodels/USBLC6-2SC6.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9317,7 +9361,7 @@
 			(uuid "a90b9e40-e01a-44fa-9a74-ccf71c9646e1")
 		)
 		(embedded_fonts no)
-		(model "694106301002.stp"
+		(model "../3dmodels/3dmodels/694106301002.stp"
 			(offset
 				(xyz 3.619999831 3.779999915 5.669999991)
 			)
@@ -9620,6 +9664,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0402_1005Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:USB4105_GCT"
 		(layer "F.Cu")
@@ -10002,6 +10057,17 @@
 			(uuid "d8536486-7f88-40c0-856d-0993616b2e1d")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/USB4105-GF-A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(model "C:/Users/dyland/Desktop/ESP PCB/LIB_USB4105-GF-A/USB4105-GF-A/3D/USB4105-GF-A.stp"
 			(offset
 				(xyz 0 -4 0)
@@ -10256,7 +10322,7 @@
 			(uuid "389a7abe-c6ea-477a-b340-8b1ba127d99b")
 		)
 		(embedded_fonts no)
-		(model "MCU08050C2209FP500.stp"
+		(model "../3dmodels/3dmodels/MCU08050C2209FP500.stp"
 			(offset
 				(xyz 0.999999985 -0.6199999955 0)
 			)
@@ -10511,7 +10577,7 @@
 			(uuid "6cb4d4c7-5635-40a0-ac84-35aebf46974d")
 		)
 		(embedded_fonts no)
-		(model "ERJ-UP6D5101V.stp"
+		(model "../3dmodels/3dmodels/ERJ-UP6D5101V.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10814,6 +10880,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0402_1005Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:MBASx21x"
 		(layer "F.Cu")
@@ -11099,7 +11176,7 @@
 			(uuid "14d117e0-ad19-4e61-a495-90a572cf697c")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11451,7 +11528,7 @@
 			(uuid "e5a3620d-fa2b-406c-a749-4ea6cfdff7ce")
 		)
 		(embedded_fonts no)
-		(model "TSR_2-2433N.stp"
+		(model "../3dmodels/3dmodels/TSR_2-2433N.stp"
 			(offset
 				(xyz -4.459999971 1.440000036 10.74999984)
 			)
@@ -11758,7 +11835,7 @@
 			(uuid "4621638c-fc70-455e-a5a9-9b996ff53ab5")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12109,7 +12186,7 @@
 			(uuid "05c12178-0aba-4f83-95a7-22cf37a91ca1")
 		)
 		(embedded_fonts no)
-		(model "USBLC6-2SC6.stp"
+		(model "../3dmodels/3dmodels/USBLC6-2SC6.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12460,7 +12537,7 @@
 			(uuid "97af48c1-f95e-4a7c-b369-dc8ef7c9dadc")
 		)
 		(embedded_fonts no)
-		(model "USBLC6-2SC6.stp"
+		(model "../3dmodels/3dmodels/USBLC6-2SC6.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12715,7 +12792,7 @@
 			(uuid "55ca0b19-3a46-4b0e-bd53-66c9982dbc57")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12970,7 +13047,7 @@
 			(uuid "21f8d42e-3299-44d7-8a16-0f544247bb6a")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13225,7 +13302,7 @@
 			(uuid "7805ec41-9946-4e7c-b0df-3adfb597c752")
 		)
 		(embedded_fonts no)
-		(model "MLG0603S2N0ST000.stp"
+		(model "../3dmodels/3dmodels/MLG0603S2N0ST000.stp"
 			(offset
 				(xyz 0 0 0.1500000037)
 			)
@@ -13528,6 +13605,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0402_1005Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:INDC0402X26N"
 		(layer "F.Cu")
@@ -13782,7 +13870,7 @@
 			(uuid "580fbaa8-e9d7-4e17-a436-e7bdeca265fd")
 		)
 		(embedded_fonts no)
-		(model "MHQ0402PSA2N0ST000.stp"
+		(model "../3dmodels/3dmodels/MHQ0402PSA2N0ST000.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14094,6 +14182,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:CAPC1608X80N"
 		(layer "F.Cu")
@@ -14337,7 +14436,7 @@
 			(uuid "f30170fc-e223-4218-83c7-31844112c2b4")
 		)
 		(embedded_fonts no)
-		(model "C1608X7T1A106M080AC.stp"
+		(model "../3dmodels/3dmodels/C1608X7T1A106M080AC.stp"
 			(offset
 				(xyz 0 0 0.4)
 			)
@@ -14655,7 +14754,7 @@
 			(uuid "cde21225-40f3-48d7-bbd5-b20e69d9f964")
 		)
 		(embedded_fonts no)
-		(model "MAJCU168BB7104KTEA01.stp"
+		(model "../3dmodels/3dmodels/MAJCU168BB7104KTEA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14899,7 +14998,7 @@
 			(uuid "5ecbeab1-1258-49a3-ae97-49c5de0ec831")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15154,7 +15253,7 @@
 			(uuid "1c95aec0-6d55-4215-9318-f845451bb2ad")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15450,7 +15549,7 @@
 			(uuid "74c0f28a-9dfd-4ea9-9aaa-fa944f3b86c2")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15756,7 +15855,7 @@
 			(uuid "4f25fba1-7801-4d52-9236-89405ab07119")
 		)
 		(embedded_fonts no)
-		(model "LTST-C190GKT.stp"
+		(model "../3dmodels/3dmodels/LTST-C190GKT.stp"
 			(offset
 				(xyz -0.01999999925 0 0.1399999985)
 			)
@@ -15922,6 +16021,17 @@
 			(uuid "5dec2e87-4c6f-43ec-93c2-39f710882f06")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_C_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:USB4105_GCT"
 		(layer "F.Cu")
@@ -16304,6 +16414,17 @@
 			(uuid "46665dec-406f-43e3-8043-a852f97905d2")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/USB4105-GF-A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(model "C:/Users/dyland/Desktop/ESP PCB/LIB_USB4105-GF-A/USB4105-GF-A/3D/USB4105-GF-A.stp"
 			(offset
 				(xyz 0 -4 0)
@@ -16558,7 +16679,7 @@
 			(uuid "7afc0e1a-ab99-4702-b3a4-da9a38444a63")
 		)
 		(embedded_fonts no)
-		(model "C1608X7T1A106M080AC.stp"
+		(model "../3dmodels/3dmodels/C1608X7T1A106M080AC.stp"
 			(offset
 				(xyz 0 0 0.4)
 			)
@@ -16824,7 +16945,7 @@
 			(uuid "43c6ad17-ff58-4681-a9a4-7a063faffc8b")
 		)
 		(embedded_fonts no)
-		(model "ERJ-UP6D5101V.stp"
+		(model "../3dmodels/3dmodels/ERJ-UP6D5101V.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17142,7 +17263,7 @@
 			(uuid "a2fc1a54-7d3e-427f-b722-5c0b027d57d4")
 		)
 		(embedded_fonts no)
-		(model "MAJCU168BB7104KTEA01.stp"
+		(model "../3dmodels/3dmodels/MAJCU168BB7104KTEA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17397,7 +17518,7 @@
 			(uuid "f4852e2e-8a80-4a94-883a-22c89ae09e6d")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17652,7 +17773,7 @@
 			(uuid "8c360ee9-d5a3-40ec-9b54-7b179c744e44")
 		)
 		(embedded_fonts no)
-		(model "ERJ-UP6D5101V.stp"
+		(model "../3dmodels/3dmodels/ERJ-UP6D5101V.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17955,6 +18076,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0402_1005Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:QFN32_5X5_EXP"
 		(layer "F.Cu")
@@ -20105,6 +20237,17 @@
 			(uuid "3df35b78-e9ee-4d45-81a0-15752015702f")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_QFN32_5x5mm.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(model "C:/Users/li107/Downloads/ESP32_C3/QFN32_5X5_EXP.step"
 			(offset
 				(xyz 0 0 0)
@@ -20457,7 +20600,7 @@
 			(uuid "dad50b66-acc5-4263-9e0d-9bcfaa515479")
 		)
 		(embedded_fonts no)
-		(model "TSR_2-2433N.stp"
+		(model "../3dmodels/3dmodels/TSR_2-2433N.stp"
 			(offset
 				(xyz -4.459999971 1.440000036 10.74999984)
 			)
@@ -20800,7 +20943,7 @@
 			(uuid "a3100eaf-30b7-4394-b40d-cc2060422eda")
 		)
 		(embedded_fonts no)
-		(model "WDP.2458.25.4.B.02.stp"
+		(model "../3dmodels/3dmodels/WDP.2458.25.4.B.02.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21065,7 +21208,7 @@
 			(uuid "b0f30a7c-6577-4341-b075-1d7e5c9bd0d2")
 		)
 		(embedded_fonts no)
-		(model "C1608X7T1A106M080AC.stp"
+		(model "../3dmodels/3dmodels/C1608X7T1A106M080AC.stp"
 			(offset
 				(xyz 0 0 0.4)
 			)
@@ -21624,6 +21767,17 @@
 			(uuid "adaa29db-d625-43e2-bfda-0cc907ae53e4")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_SW_PTS645.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:PTS645SL43SMTR92LFS_CNK"
 		(layer "F.Cu")
@@ -22161,6 +22315,17 @@
 			(uuid "e48a4adb-64b1-4215-bd74-1c7b90787ddf")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_SW_PTS645.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:CAPC1608X80N"
 		(layer "F.Cu")
@@ -22404,7 +22569,7 @@
 			(uuid "191b8d87-2a38-4aa7-bdc9-96739973128b")
 		)
 		(embedded_fonts no)
-		(model "C1608X7T1A106M080AC.stp"
+		(model "../3dmodels/3dmodels/C1608X7T1A106M080AC.stp"
 			(offset
 				(xyz 0 0 0.4)
 			)
@@ -22722,7 +22887,7 @@
 			(uuid "3f2bfd3e-9425-4eda-890b-d4e195f64424")
 		)
 		(embedded_fonts no)
-		(model "MAJCU168BB7104KTEA01.stp"
+		(model "../3dmodels/3dmodels/MAJCU168BB7104KTEA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23115,6 +23280,17 @@
 			(uuid "d117ad58-4cec-46f0-a038-66c350eff26e")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/USB4105-GF-A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(model "C:/Users/dyland/Desktop/ESP PCB/LIB_USB4105-GF-A/USB4105-GF-A/3D/USB4105-GF-A.stp"
 			(offset
 				(xyz 0 -4 0)
@@ -23411,7 +23587,7 @@
 			(uuid "2a082205-8a41-486a-a895-bc0b97c19179")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23687,7 +23863,7 @@
 			(uuid "428bf895-08c0-48d5-9331-78a6919fdd75")
 		)
 		(embedded_fonts no)
-		(model "MHQ0402PSA2N0ST000.stp"
+		(model "../3dmodels/3dmodels/MHQ0402PSA2N0ST000.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23994,7 +24170,7 @@
 			(uuid "a39625a9-01d2-478a-aa9d-05d62be3ce22")
 		)
 		(embedded_fonts no)
-		(model "MAJCU168BB7104KTEA01.stp"
+		(model "../3dmodels/3dmodels/MAJCU168BB7104KTEA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24248,7 +24424,7 @@
 			(uuid "6758b849-8d1d-4307-90af-d4e9dad4db59")
 		)
 		(embedded_fonts no)
-		(model "C1608X7T1A106M080AC.stp"
+		(model "../3dmodels/3dmodels/C1608X7T1A106M080AC.stp"
 			(offset
 				(xyz 0 0 0.4)
 			)
@@ -24554,7 +24730,7 @@
 			(uuid "12467fc3-5d93-452b-b4e8-393865de2c29")
 		)
 		(embedded_fonts no)
-		(model "LTST-C190GKT.stp"
+		(model "../3dmodels/3dmodels/LTST-C190GKT.stp"
 			(offset
 				(xyz -0.01999999925 0 0.1399999985)
 			)
@@ -24912,7 +25088,7 @@
 			(uuid "6c5f44de-0f04-48cb-80f3-4684b1ced5a5")
 		)
 		(embedded_fonts no)
-		(model "CDCLVC1103PW.stp"
+		(model "../3dmodels/3dmodels/CDCLVC1103PW.stp"
 			(offset
 				(xyz 0 0 0.6799999969)
 			)
@@ -25230,7 +25406,7 @@
 			(uuid "9b8739a1-901c-421d-bd8b-05c0f006fa22")
 		)
 		(embedded_fonts no)
-		(model "MAJCU168BB7104KTEA01.stp"
+		(model "../3dmodels/3dmodels/MAJCU168BB7104KTEA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25537,7 +25713,7 @@
 			(uuid "e3890fd8-efcd-424f-894c-5bf9882c8c66")
 		)
 		(embedded_fonts no)
-		(model "MAJCU168BB7104KTEA01.stp"
+		(model "../3dmodels/3dmodels/MAJCU168BB7104KTEA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25781,7 +25957,7 @@
 			(uuid "965344eb-2a2c-40f0-ae28-e698fd05f7b1")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26036,7 +26212,7 @@
 			(uuid "67449bf6-292a-4b16-b1b9-bbb54fe16466")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28197,6 +28373,17 @@
 			(uuid "5a346a11-a88e-48bc-b5cf-c507874ebcff")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_QFN32_5x5mm.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(model "C:/Users/li107/Downloads/ESP32_C3/QFN32_5X5_EXP.step"
 			(offset
 				(xyz 0 0 0)
@@ -28463,7 +28650,7 @@
 			(uuid "01763b34-e79e-4aea-ab79-98d50ebcf2d1")
 		)
 		(embedded_fonts no)
-		(model "ERJ-UP6D5101V.stp"
+		(model "../3dmodels/3dmodels/ERJ-UP6D5101V.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28640,6 +28827,17 @@
 			(uuid "4a94f872-9c7e-45e0-bb70-1f883248d072")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_C_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:CAPC0603X33N"
 		(layer "F.Cu")
@@ -28795,6 +28993,17 @@
 			(uuid "7c5c01c9-7ba3-4dc3-9a30-7aa886e4da75")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_C_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:CAPC1608X90N"
 		(layer "F.Cu")
@@ -29028,7 +29237,7 @@
 			(uuid "59c30d36-3fe4-4671-8c9f-9c511640d340")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29340,6 +29549,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:CAPC1608X90N"
 		(layer "F.Cu")
@@ -29573,7 +29793,7 @@
 			(uuid "0bd463fc-c8c8-49d2-9b72-3599ab768437")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29817,7 +30037,7 @@
 			(uuid "1d4019d8-05b4-4da0-9331-563d110ab744")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30129,6 +30349,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:RESC2012X55N"
 		(layer "F.Cu")
@@ -30372,7 +30603,7 @@
 			(uuid "6c5fbbaf-d146-4b5b-99a3-e1506a9b2087")
 		)
 		(embedded_fonts no)
-		(model "MCU08050C2209FP500.stp"
+		(model "../3dmodels/3dmodels/MCU08050C2209FP500.stp"
 			(offset
 				(xyz 0.999999985 -0.6199999955 0)
 			)
@@ -30616,7 +30847,7 @@
 			(uuid "db78d9f2-2bc2-4cf6-9e96-6367dc5385ad")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30912,7 +31143,7 @@
 			(uuid "33144548-13ef-462c-b439-6b26f461100e")
 		)
 		(embedded_fonts no)
-		(model "MBASQ21GAB7104MTCA01.stp"
+		(model "../3dmodels/3dmodels/MBASQ21GAB7104MTCA01.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31089,6 +31320,17 @@
 			(uuid "0be5e1c1-c26b-4ecf-ab91-3853be60086e")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_C_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:CAPC1608X90N"
 		(layer "F.Cu")
@@ -31322,7 +31564,7 @@
 			(uuid "e17f1975-4db6-4a33-ab3f-68c7dbced241")
 		)
 		(embedded_fonts no)
-		(model "06032A101FAT2A.stp"
+		(model "../3dmodels/3dmodels/06032A101FAT2A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31577,7 +31819,7 @@
 			(uuid "32389e3a-fa15-407c-9b06-f700408ca255")
 		)
 		(embedded_fonts no)
-		(model "ERJ-UP6D5101V.stp"
+		(model "../3dmodels/3dmodels/ERJ-UP6D5101V.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31843,7 +32085,7 @@
 			(uuid "6516c755-3f29-4ad4-935e-bbda61ed8255")
 		)
 		(embedded_fonts no)
-		(model "MLG0603S2N0ST000.stp"
+		(model "../3dmodels/3dmodels/MLG0603S2N0ST000.stp"
 			(offset
 				(xyz 0 0 0.1500000037)
 			)
@@ -32119,7 +32361,7 @@
 			(uuid "9df5ec51-c5a7-47b9-b78c-0f86003cfde1")
 		)
 		(embedded_fonts no)
-		(model "MHQ0402PSA2N0ST000.stp"
+		(model "../3dmodels/3dmodels/MHQ0402PSA2N0ST000.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32423,7 +32665,7 @@
 			(uuid "51545d10-8cc1-495d-880e-9eb2ef889364")
 		)
 		(embedded_fonts no)
-		(model "FK4000032.stp"
+		(model "../3dmodels/3dmodels/FK4000032.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32748,6 +32990,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0402_1005Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:RC0603N_YAG"
 		(layer "F.Cu")
@@ -33049,6 +33302,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:CAPC0603X33N"
 		(layer "F.Cu")
@@ -33204,6 +33468,17 @@
 			(uuid "111864c7-b3ee-4f22-8578-d1f385f81bd9")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_C_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:RC0603N_YAG"
 		(layer "F.Cu")
@@ -33505,6 +33780,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:PTS645SL43SMTR92LFS_CNK"
 		(layer "F.Cu")
@@ -34042,6 +34328,17 @@
 			(uuid "4f1cca9a-6c01-4376-9499-6f2b60e01832")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_SW_PTS645.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:QFN32_5X5_EXP"
 		(layer "F.Cu")
@@ -36192,6 +36489,17 @@
 			(uuid "e1debaf5-06e9-4f16-8de3-877b62f6f8d7")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_QFN32_5x5mm.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(model "C:/Users/li107/Downloads/ESP32_C3/QFN32_5X5_EXP.step"
 			(offset
 				(xyz 0 0 0)
@@ -36751,6 +37059,17 @@
 			(uuid "7b3c3b2b-51f8-41e6-bf64-b2600a2e04f6")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_SW_PTS645.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:LEDC1608X90N"
 		(layer "F.Cu")
@@ -37035,7 +37354,7 @@
 			(uuid "7609d17f-8e07-4ac9-a842-99cdc9c95813")
 		)
 		(embedded_fonts no)
-		(model "LTST-C190GKT.stp"
+		(model "../3dmodels/3dmodels/LTST-C190GKT.stp"
 			(offset
 				(xyz -0.01999999925 0 0.1399999985)
 			)
@@ -37201,6 +37520,17 @@
 			(uuid "e2383784-a838-4e5d-8b83-b919bbb557b8")
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_C_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "footprints:RC0603N_YAG"
 		(layer "F.Cu")
@@ -37502,6 +37832,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "../3dmodels/3dmodels/generic_R_0603_1608Metric.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(gr_line
 		(start 7.5 120.1)
